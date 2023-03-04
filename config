@@ -4,77 +4,77 @@
     "no_winner" "1"                                    // Uruchom gdy nie było drużyny zwycięskiej
     "info_chat" "1"                                    // Informowac na czat o nazwie piosenki, ktora leci
 
-    "2115 - TURYSTA.mp3" // tutaj nazwa pliku w folderze
+    "1.mp3" // tutaj nazwa pliku w folderze
     {
         "name" "2115 - TURYSTA"     // Nazwa muzyki wyswietlana w menu oraz na czat
         "volume" "1.0"              // Głośność muzyki
         "team" "0"                  // Id druzyny zwycięskiej dla której ma grac (0 - wszyscy | 2 - TT | 3 - CT)
     }
-    "david guetta, becky hill ella henderson - crazy what love can do (luke hepworth remix).mp3"
+    "2.mp3"
     {
         "name" "david guetta, becky hill ella henderson - crazy what love can do (luke hepworth remix)"
     }
-    "FRIZ x MASNY BEN - YO MAMALE.mp3"
+    "3.mp3"
     {
-        "name" "FRIZ x MASNY BEN - YO MAMALE.mp3"
+        "name" "FRIZ x MASNY BEN - YO MAMALE"
     }
-    "Jacus - Kiss.mp3"
+    "4.mp3"
     {
         "name" "Jacus - Kiss"
     }
-    "Jano Polska Wersja - Po Chmurze Chodze.mp3"
+    "5.mp3"
     {
         "name" "Jano Polska Wersja - Po Chmurze Chodze"
     }
-	"Kacper HTA x Fonos x Gibbs - Chlod.mp3"
+	"6.mp3"
     {
         "name" "Kacper HTA x Fonos x Gibbs - Chlod"
     }
-	"Kizo - DISCOPOLO (prod. BeMelo & Gory).mp3"
+	"7.mp3"
     {
-        "name" "Kizo - DISCOPOLO (prod. BeMelo & Gory).mp3"
+        "name" "Kizo - DISCOPOLO (prod. BeMelo & Gory)"
     }
-	"KUMI - ZAPALIMY BLANTA (GRADE REMIX).mp3"
+	"8.mp3"
     {
         "name" "KUMI - ZAPALIMY BLANTA (GRADE REMIX)"
     }
-	"Malik Montana x Kazior - Na raz ( CLIMO REMIX ).mp3"
+	"9.mp3"
     {
         "name" "Malik Montana x Kazior - Na raz ( CLIMO REMIX )"
     }
-	"Malik Montana x Kazior - Self Made.mp3"
+	"10.mp3"
     {
         "name" "Malik Montana x Kazior - Self Made"
     }
-	"Malik Montana x Zabson - Do Tanca (prod.Eurosoundz).mp3"
+	"11.mp3"
     {
         "name" "Malik Montana x Zabson - Do Tanca (prod.Eurosoundz)"
     }
-	"MASNY BEN - GIGACHAD.mp3"
+	"12.mp3"
     {
         "name" "MASNY BEN - GIGACHAD"
     }
-	"MASNY BEN - LOUDA.mp3"
+	"13.mp3"
     {
         "name" "MASNY BEN - LOUDA"
     }
-	"MGNG - BELWEDER (omamale).mp3"
+	"14.mp3"
     {
         "name" "MGNG - BELWEDER (omamale)"
     }
-	"Polska Wersja - Exit ft. Gibbs (CLIMO REMIX).mp3"
+	"15.mp3"
     {
         "name" "Polska Wersja - Exit ft. Gibbs (CLIMO REMIX)"
     }
-	"Polska Wersja - Slowo.mp3"
+	"16.mp3"
     {
         "name" "Polska Wersja - Slowo"
     }
-	"Seni - skubidubidubidu (Majki Bootleg).mp3"
+	"17.mp3"
     {
         "name" "Seni - skubidubidubidu (Majki Bootleg)"
     }
-	"Sentino x Nitro x Masny Ben - Trojkat Bermudzki.mp3"
+	"18.mp3"
     {
         "name" "Sentino x Nitro x Masny Ben - Trojkat Bermudzki"
     }
